@@ -1,3 +1,5 @@
+#program checking if input is a palindrome and constructing a dictionary and a list.
+
 s = str(input("String: "))
 if len(s) == 1:
     print("Length = 1")
